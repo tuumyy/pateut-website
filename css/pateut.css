@@ -82,3 +82,7 @@ iframe {
     padding-right: 10px;
     padding-bottom: 10px;
 }
+
+@media screen and (max-width: 481px) {
+
+}  
